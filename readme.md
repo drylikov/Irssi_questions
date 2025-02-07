@@ -1,6 +1,6 @@
 # Irssi questions.
 
-A filter stream to pull out the questions from an irssi log file
+A filter stream to pull out the questions from an irssi log file.
 
 ## usage
 
